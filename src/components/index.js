@@ -1,0 +1,10 @@
+export { Navbar } from './Navbar';
+export { Hero } from './Hero';
+export { TrustedBy } from './TrustedBy';
+export { WhatWeBuild } from './WhatWeBuild';
+export { Process } from './Process';
+export { Projects } from './Projects';
+export { WhyChooseUs } from './WhyChooseUs';
+export { Team } from './Team';
+export { CTA } from './CTA';
+export { Footer } from './Footer';
